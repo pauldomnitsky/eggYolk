@@ -1,0 +1,14 @@
+ {
+  "name": "wheather_tutorial_app",
+  "version": "1.0.0",
+  "description": "cli app for getting wheather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wheather"
+  ],
+  "author": "Paul Domnitsky",
+  "license": "ISC"
+}
